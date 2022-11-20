@@ -12,7 +12,8 @@
       "url": "https://atcoder.jp/contests/abc106/tasks/abc106_a",
       "directory": {
         "path": "a",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -22,20 +23,31 @@
       "url": "https://atcoder.jp/contests/abc106/tasks/abc106_b",
       "directory": {
         "path": "b",
-        "testdir": "tests"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
       "id": "abc106_c",
       "label": "C",
       "title": "To Infinity",
-      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_c"
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "abc106_d",
       "label": "D",
       "title": "AtCoder Express 2",
-      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_d"
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     }
   ]
 }
