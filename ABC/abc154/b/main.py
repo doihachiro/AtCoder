@@ -1,1 +1,3 @@
-A, B = map(int, input().split())
+S = input()
+
+print("x" * len(S))
