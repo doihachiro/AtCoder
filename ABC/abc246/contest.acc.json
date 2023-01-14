@@ -12,7 +12,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_a",
       "directory": {
         "path": "a",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -22,7 +23,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_b",
       "directory": {
         "path": "b",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -32,7 +34,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_c",
       "directory": {
         "path": "c",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -42,7 +45,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_d",
       "directory": {
         "path": "d",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -52,7 +56,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_e",
       "directory": {
         "path": "e",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -62,7 +67,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_f",
       "directory": {
         "path": "f",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -72,7 +78,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_g",
       "directory": {
         "path": "g",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     },
     {
@@ -82,7 +89,8 @@
       "url": "https://atcoder.jp/contests/abc246/tasks/abc246_h",
       "directory": {
         "path": "ex",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.py"
       }
     }
   ]
